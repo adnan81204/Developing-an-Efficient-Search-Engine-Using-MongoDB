@@ -138,16 +138,22 @@ python main.py
 - Apply filters (date, topic, type)
 - View highlighted and structured results
 
+  ---
+
 ## Results
 - Efficient retrieval of real-time and historical data
 - Improved query execution time using indexing
 - Reliable caching mechanism for repeated searches
 - Well-structured data storage and retrieval
 
+---
+
 ## Limitations
 - GUI limited to desktop (Tkinter-based)
 - Advanced NLP ranking not implemented
 - No distributed framework integration (yet)
+
+---
 
 ## Future Enhancements
 - Integration with Hadoop / Spark for large-scale processing
@@ -155,6 +161,8 @@ python main.py
 - Web-based UI using Flask or React
 - Semantic search and relevance ranking
 - Real-time streaming data ingestion
+
+---
 
 ## Authors
 Rushank Tripathi
@@ -166,6 +174,7 @@ Shaik Adnan Tousef
 Department of Computer Science and Engineering
 Amrita School of Computing, Bengaluru
 
+---
  ## License
 This project is developed for academic and educational purposes.
 All rights reserved to the authors.
