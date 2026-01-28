@@ -138,7 +138,7 @@ python main.py
 - Apply filters (date, topic, type)
 - View highlighted and structured results
 
-  ---
+---
 
 ## Results
 - Efficient retrieval of real-time and historical data
